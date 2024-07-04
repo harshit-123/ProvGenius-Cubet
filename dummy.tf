@@ -18,22 +18,3 @@ variable "image_id" {
 variable "instance_type" {
   type = string
 }
-variable "ami" {
-  type = string
-  default = "ami2320320332"
-}
-variable "test123" {
-  type = string
-}
-variable "test12345" {
-  type = string
-}
-variable "testing_merge" {
-  type = string
-}
-variable "testing_merge_output" {
-  type = string
-}
-variable "testing_merge_output123" {
-  type = string
-}
