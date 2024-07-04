@@ -34,3 +34,6 @@ variable "testing_merge" {
 variable "testing_merge_output" {
   type = string
 }
+variable "testing_merge_output123" {
+  type = string
+}
