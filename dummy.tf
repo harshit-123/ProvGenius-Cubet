@@ -18,3 +18,12 @@ variable "instance_type"{
 variable "resource_type"{
     type = string
 }
+variable "resource_type1"{
+    type = string
+}
+variable "resource_type2"{
+    type = string
+}
+variable "resource_type3"{
+    type = string
+}
