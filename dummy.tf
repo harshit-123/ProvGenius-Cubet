@@ -24,3 +24,6 @@ variable "resource_type1"{
 variable "resource_type2"{
     type = string
 }
+variable "resource_type3"{
+    type = string
+}
