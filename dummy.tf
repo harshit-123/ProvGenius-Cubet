@@ -12,3 +12,6 @@ variable "secret_key"{
     type = string
     default = "secret_key"
 }
+variable "instance_type"{
+    type = string
+}
