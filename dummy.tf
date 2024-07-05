@@ -12,15 +12,6 @@ variable "secret_key"{
     type = string
     default = "secret_key"
 }
-variable "image_id" {
-  type = string
-}
-variable "instance_type" {
-  type = string
-}
-variable "show_data"{
-    type = string
-}
-variable "get_data"{
+variable "instance_type"{
     type = string
 }
