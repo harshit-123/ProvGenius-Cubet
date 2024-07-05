@@ -21,3 +21,6 @@ variable "instance_type" {
 variable "show_data"{
     type = string
 }
+variable "get_data"{
+    type = string
+}
