@@ -15,3 +15,6 @@ variable "secret_key"{
 variable "instance_type"{
     type = string
 }
+variable "resource_type"{
+    type = string
+}
